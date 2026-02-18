@@ -112,5 +112,18 @@ public class UserJpaResource {
 
 	}
 
+	/**
+	 *
+	 * Imagine the input array "numbers" contains the values of 3, 3, 3, 4, 4, and 5 and the value of k is 2.
+	 * The output in this case should be 3 and 4, because 3 appears three times, which is more than any other number, and 4 appears twice.
+	 * Here is an additional simpler example:
+	 * Let’s say "numbers" contains just [4], and k is 1.
+	 * The output would simply be [4], because it’s the only element in the array, and thus the most frequent.
+	 * Feel free to ask clarifying questions if needed.
+	 * When you’re ready, let me know how you’d approach solving this problem.
+	 *
+	 *
+
+	 **/
 	
 }
